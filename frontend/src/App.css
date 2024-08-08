@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;1,300&display=swap');
+
+div.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url('./Images/1000_F_195422106_cNzNOmCmgf0QbxDVfuOoEc2zEl0gYIL0.jpg');
+  background-position: center;
+  background-size: cover;
+}
